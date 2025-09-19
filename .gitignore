@@ -1,0 +1,15 @@
+# Ignorar configurações locais
+app/config.php
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Cache do Windows e Mac
+Thumbs.db
+.DS_Store
+
+# Pasta de uploads locais (se houver)
+public/uploads/
